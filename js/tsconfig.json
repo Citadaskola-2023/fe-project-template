@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "lib": ["dom", "es2015"],
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "target": "es2020",
+  }
+}

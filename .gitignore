@@ -1,0 +1,7 @@
+.idea
+.env
+.env.local
+/var/
+/vendor/
+/js/node_modules/
+/public/build.*
